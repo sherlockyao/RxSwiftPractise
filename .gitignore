@@ -1,0 +1,17 @@
+Cartfile
+Cartfile.resolved
+Carthage
+
+*.DS_Store
+ 
+./RxSwiftPractise/build/
+ 
+*.pbxuser
+*.perspective
+*.perspectivev3
+ 
+*.mode1v3
+*.mode2v3
+xcuserdata
+ 
+
